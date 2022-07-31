@@ -1,0 +1,23 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="01_Sheep_Fur_rlsvc0p0_4K_inst"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=B208C207493BFC2228D0C9A0338FAFF1
+   Parent=Material'"/Game/Megascans/Master_Materials/Standard_MasterMaterial.Standard_MasterMaterial"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="roughness"),ParameterValue=1.000000)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="normal"),ParameterValue=1.000000)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="albedo"),ParameterValue=1.000000)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="displacement"),ParameterValue=1.000000)
+   TextureParameterValues(0)=(ParameterInfo=(Name="roughness"),ParameterValue=Texture2D'"/Game/Megascans/Surface/01_Sheep_Fur_rlsvc0p0/rlsvc0p_4K_Roughness.rlsvc0p_4K_Roughness"',ExpressionGUID=71AF1FD442E05D391F15E184CC05AB9D)
+   TextureParameterValues(1)=(ParameterInfo=(Name="normal"),ParameterValue=Texture2D'"/Game/Megascans/Surface/01_Sheep_Fur_rlsvc0p0/rlsvc0p_4K_Normal.rlsvc0p_4K_Normal"',ExpressionGUID=0B27401646E0D305E18C9FA7A882666A)
+   TextureParameterValues(2)=(ParameterInfo=(Name="albedo"),ParameterValue=Texture2D'"/Game/Megascans/Surface/01_Sheep_Fur_rlsvc0p0/rlsvc0p_4K_Albedo.rlsvc0p_4K_Albedo"',ExpressionGUID=DADCBC16415CC8872976AAB44D1BFAA0)
+   TextureParameterValues(3)=(ParameterInfo=(Name="displacement"),ParameterValue=Texture2D'"/Game/Megascans/Surface/01_Sheep_Fur_rlsvc0p0/rlsvc0p_4K_Displacement.rlsvc0p_4K_Displacement"',ExpressionGUID=B00CF0854BF93FE70CFF98A0CDE6894C)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=1EA1D47B4C1E16E00C26D7ABE9DFD7DF
+   ReferencedTextureGuids(1)=EC3FB5EC429597CF2FF8F78EC22EF3FD
+   ReferencedTextureGuids(2)=C3BCA45B493E6A8725495D8E6261997C
+   ReferencedTextureGuids(3)=F8E1F9904A7305EE7C772583F33F2F68
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=F03F8C7F47DAD7D55780BB87992AA245
+End Object
